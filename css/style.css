@@ -148,6 +148,7 @@ p{
   font-family: 'Source Sans Pro', sans-serif;
 }
 #map {
-  height: 400px;
-  position: relative;
+   height: 400px;
+  border: 3px solid Black;
+  margin: 50px;
 }
